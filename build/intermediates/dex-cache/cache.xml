@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\volley_e935e82844552aab426d4066e02d936f3731b6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\968d4eca3e52c0abb50751a07e1421bc007bead2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_b9cffa741ced5ebd260ff77938be3ddd10bd58a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_7f4bfe41ee8da699534b103f5756a60ccbc61e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\c48e391f7ee001b774769e8b5d2e0d353bb7c413\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_9765f3163b9080296b9896e51e62d9ed450d2ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_c40d10ea5e4a78a2a73c625ac9c2ece41e784b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\a8c29e5b71988424223253633526a1be67a2597b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_e26c96db661c30c560210fde3b454bb0c4bbddc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\3280d8f0331781e811be56e2dd87b24b7fd106a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48ab283a4cda3b78eda2c149b588cb0aa0c66cc9">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_65cead047f32296551ed39c5d9f66f0ea730aa78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\d67444f93291fa1ed37f2ffe0644327bf51d7e85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_d0d8237af117895b45b066321f6d2c2c99b0bbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\f5efb984e1d02e1a9c7fcf094b6a0b7b8ede27cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42c5ee016c8815db37d662f18c497aee13150f9e">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_1a413151ec5ed9606027f126ff04519651be3b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\d772dfa7559dcec22e3616525986213b982e3f24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_4537aada762e546da5de8d62793a5e5a7c12fa29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\6233b22f6c4cde2a15d58e122d16abd3c509d2f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_20d952b517cd9a7cf20ffca658fef4fcb8e6a8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\gson-2.8.0_42f4b736cb4b85549a98fa495d25cd61c0842a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.7\6eb2e87ddb09e944bb88f06f19ba0638d4607ffd\joda-time-2.9.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb2e87ddb09e944bb88f06f19ba0638d4607ffd">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\joda-time-2.9.7_6c35406a3a8fd59a151c4355be544e61c4db5791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\ee1d2ea149e2c7150753bce3972b45c25ccfdfe6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_33a9fa8c6b17c194866c97e1982e009ee83ad3ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\com.google.maps\google-maps-services\0.1.20\1e0937a4dba57b19d8ea542a8da285f2a96035ab\google-maps-services-0.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e0937a4dba57b19d8ea542a8da285f2a96035ab">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\google-maps-services-0.1.20_56253e4df87b577a66903af5ad5631980dc48cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\okio-1.6.0_4b19643843b8ce0adb32fe6edfe68e06782cffb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\723a61a01ca5e4b85213bf4bfb9babde75312db1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_9ae4ca6547ffb16cddd766c4ced91c4086ab7a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.25\da76ca59f6a57ee3102f8f9bd9cee742973efa8a\slf4j-api-1.7.25.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.25_acb23df27fa556e4671a332aa6969f9e679bf751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_22556ca7cb4effa90b47fae308a70c6bc754c2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\e1b0d03f56d618084a5a743b4c071840d7d8a417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc387427a76c6a9fba40a490e48d244a989690c8">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_5daaf5d2e52b8149665e25065fe4de14bf527002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\00fd60a98fb0a131a9b1f7fb57665e914f948563\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_21ee11ed18ced8b17911d4dee7d92883ec386631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\1e41b9c53594bc5be8b5882c127cdff90bc579bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_f2eb4ad8b051f8644bf471e4d65e8209dce71ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ananth\.android\build-cache\30cac61da85963e8ec020788078a34f667ee2a8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Ananth\Downloads\MaterialTabs\MaterialTabs\app\build\intermediates\pre-dexed\debug\classes_2951ba3a07b563a37d63b90dbc957e8edf535612.jar" />
+    </item>
+
+</items>
